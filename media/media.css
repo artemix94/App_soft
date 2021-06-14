@@ -1,0 +1,525 @@
+@media only screen and (max-width : 1200px){
+.phone {
+	right: 7%;
+	width: 35%;
+}
+.video_info {
+	margin: 0;
+}
+.red_line {
+	width: 20%;
+}
+.red_banner {
+	width: 10%;
+}
+.player_line {
+	width: 300px;
+}
+}
+
+@media only screen and (max-width : 992px){
+.banner_softbox h2{
+	font-size: 40px;
+}
+.banner_softbox p{
+	font-size: 15px;
+}
+.red_point{
+	bottom: 75%;
+	right: 90%;
+}
+.phone {
+	right: 12%;
+	top: 30%;
+	width: 30%;
+}
+.banner_number {
+	margin-top: 100px;
+}
+.red_banner {
+	height: 1030px;
+}
+.red_banner:before{
+	    border-top: 1030px solid transparent;
+}
+.red_banner {
+	width: 8%;
+}
+.num:before {
+	font-size: 70px;
+}
+.num{
+	font-size: 40px;
+}
+.phone_active{
+	right: 28%;
+}
+.player_line {
+	width: 250px;
+}
+.player_works{
+	padding: 0px 40px;
+}
+.phone_not_active {
+	top: 15%;
+    right: 22%;
+}
+.player_works h2{
+	font-size: 40px;
+}
+.video_info h2{
+	font-size: 40px;
+}
+.video_info p{
+	font-size: 15px;
+	padding-left: 0px;
+}
+.video_info button {
+	margin-left: 0;
+}
+.video_info {
+	margin-left: 40px;
+}
+.play {
+	width: 110px;
+	padding-bottom: 110px;
+}
+.platforms_info h2 {
+	font-size: 40px;
+}
+.platforms_info p{
+	font-size: 15px;
+}
+.platforms {
+	margin-top: 200px;
+}
+.video {
+	margin-top: 220px;
+}
+.appLab {
+	    margin-top: 200px;
+}
+.platforms_phone_img {
+	width: 100%;
+}
+.line1{
+	width: 441px;
+}
+.line2 {
+	width: 425px;
+}
+.line3 {
+	width: 296px;
+}
+.testimonials_title h2{
+	font-size: 40px;
+}
+.applab_text:after {
+	width: 80%;
+}
+.appLab_info h3 {
+	font-size: 14px;
+}
+.appLab_info p {
+	font-size: 16px;
+}
+.applab_icon:after {
+	font-size: 55px;
+	padding-right: 10px;
+}
+.appLab h2 {
+	font-size: 40px;
+}
+.account h2 {
+	font-size: 40px;
+}
+.asked h2 {
+	font-size: 40px;
+}
+.foot_contacts p{
+	font-size: 16px;
+}
+.foot_bottom_title span {
+	font-size: 10px;
+}
+.foot_red_line {
+	width: 75%;
+}
+.connection_info i {
+	margin-right: 10px;
+	height: 35px;
+	width: 35px;
+}
+.foot_contacts h2 {
+	font-size: 34px;
+}
+.connection_info h4 {
+	font-size: 16px;
+}
+}
+
+@media only screen and (max-width : 768px){
+.platforms_all {
+	display: block;
+}
+.menu a {
+	font-size: 10px;
+    margin: 0px 15px;
+}
+.menu a:after {
+	margin-top: 0;
+}
+.red_banner {
+	display: none;
+}
+.banner_softbox h2 {
+	width: 100%;
+}
+.banner_softbox p {
+	width: 100%;
+}
+.phone {
+	right: 30%;
+    top: 100%;
+    width: 45%;
+}
+.banner_number {
+	margin-top: 525px;
+}
+.banner_number {
+	width: 100%;
+}
+.banner_number {
+	margin-left: 0px;
+}
+.red_point {
+	right: 85%;
+}
+.red_banner {
+	display: block;
+}
+.red_banner {
+	width: 100%;
+	height: 330px;
+	top: 975px;
+}
+.red_banner:before {
+	right: 0;
+	bottom: 100%;
+	border-top: 250px solid transparent;
+}
+.num {
+	color: white;
+}
+.text {
+	color: white;
+}
+.player_works {
+	display: none;
+}
+.player {
+	margin-top: 200px;
+}
+.video_content {
+	display: block;
+}
+.video_player {
+	width: 100%;
+}
+.video_info {
+	width: 100%;
+}
+.video_line {
+	width: 0%;
+}
+.platforms_info {
+	width: 100%;
+}
+.platforms {
+	margin-top: 125px;
+}
+.platforms_info p {
+	width: 100%;
+}
+.platforms_phone img:last-child {
+	bottom: 0px;
+    right: 0px;
+}
+.platforms_phone_img {
+	width: 80%;
+}
+.testimonials {
+	margin-top: 100px;
+}
+.appLab_all {
+	display: block;
+}
+.applab_text:after {
+	width: 100%;
+}
+.appLab_info {
+	width: 85%;
+	margin-bottom: 100px;
+}
+.account_card {
+	display: block;
+}
+.card {
+	width: 95%;
+	margin-bottom: 50px;
+}
+.card:nth-child(2){
+	width: 100%;
+}
+.asked {
+	margin-top: 150px;
+}
+footer {
+	margin-top: 50px;
+}
+.appLab {
+	margin-top: 100px;
+}
+.accordion-item-header i {
+	font-size: 10px;
+}
+.accordion-item-header i:before {
+	padding: 12px;
+}
+.accordion-item-header {
+	font-size: 15px;
+	padding: 30px;
+}
+.all_foot {
+	display: block;
+}
+.foot_black_line {
+	width: 45%;
+}
+.foot_red_line {
+	height: 830px;
+}
+footer {
+	margin-top: 0px;
+}
+.foot_red_line {
+	width: 100%;
+}
+.foot_red_line:before {
+	display: none;
+}
+.foot_connection {
+	display: block;
+}
+.connection_info:nth-child(3n), .connection_info:nth-child(4n) {
+	margin-top: 25px;
+}
+.foot_contacts button {
+	margin-bottom: 50px;
+}
+.connection_info h4 {
+	margin-bottom: 15px;
+}
+.foot_bottom {
+	margin-top: 0px;
+}
+.connection_info h4,.connection_info p{
+	font-size: 12px;
+}
+.connection_info:nth-child(odd){
+	padding-right: 0px;
+}
+.connection_info {
+	width: 75%;
+}
+.popup {
+	height: 40%;
+	width: 60%;
+}
+}
+
+@media only screen and (max-width : 480px){
+nav {
+	display: none;
+	position: fixed;
+	z-index: 998;
+	width: 100%;
+}
+.menu-icon {
+	display: block;
+}
+.all_head {
+	align-items: center;
+	justify-content: space-between;
+}
+.menu {
+	align-items: center;
+	background: black;
+	padding: 150px 0px;
+}
+.menu li {
+	margin-bottom: 50px;
+}
+.menu a:after {
+	right: 45%;
+	margin-top: 5px;
+}
+.red_line {
+	padding-top: 0px;
+}
+.red_line:after {
+	    border-bottom: 70px solid transparent;
+}
+.fixed {
+	height: 10%;
+}
+.menu a {
+	color: white;
+	font-size: 30px;
+}
+.red_point {
+	display: none;
+}
+.banner_softbox {
+	margin-left: 0px;
+}
+.banner {
+	margin-top: 150px;
+}
+.banner_softbox h2 {
+	font-size: 25px;
+}
+.banner_softbox p {
+	margin-bottom: 25px;
+}
+.red_banner {
+	height: 125px;
+	top: 850px;
+}
+.phone {
+	top: 75%;
+}
+.banner_number {
+	 margin-top: 450px;
+}
+.num {
+	font-size: 30px;
+}
+.text {
+	font-size: 12px;
+}
+.video_content {
+	padding-top: 70px;
+}
+.video_line:before {
+	border-bottom: 680px solid transparent;
+}
+.player {
+	margin-top: 0px;
+}
+.video {
+	margin-top: 120px;
+}
+.play {
+	width: 100px;
+    padding-bottom: 100px;
+}
+.platforms {
+	margin-top: 100px;
+}
+.platforms_phone {
+	display: none;
+}
+.applab_text:after {
+	width: 95%;
+}
+.appLab_info {
+	margin-bottom: 80px;
+}
+.video_info h2 {
+	font-size: 25px;
+	padding-left: 25px;
+}
+.video_info h2:after {
+	top: 7px;
+}
+.platforms_info h2 {
+	font-size: 25px;
+}
+.testimonials_title h2{
+	font-size: 35px;
+}
+.appLab h2 {
+	font-size: 25px;
+}
+.account h2 {
+	font-size: 25px;
+}
+.account_card {
+	margin-top: 70px;
+}
+.asked h2 {
+	font-size: 25px;
+	margin-bottom: 60px;
+}
+.accordion-item-header {
+	padding: 20px;
+	font-size: 12px;
+}
+.accordion-item-header i {
+	font-size: 7px;
+	top: 30px;
+    right: 10px;
+}
+.accordion-item-header i:before {
+	padding: 10px;
+}
+.foot_red_line {
+	height: 930px;
+}
+.testimonials_title h2 {
+	padding-left: 25px;
+}
+.all_head {
+	padding-top: 0px;
+}
+.logo {
+	padding-top: 15px;
+	margin-left: 15px;
+}
+.menu-icon {
+	padding-top: 15px;
+	margin-right: 15px;
+}
+.header > .container {
+	padding: 0px;
+}
+.foot_black_line {
+	width: 20%;
+}
+.accordion-item-content {
+	font-size: 10px;
+}
+.testimonials_line {
+	width: 100%;
+}
+.testimonials_line:before{
+	border-left: none;
+}
+.video_info p {
+	width: 100%;
+}
+.video_info {
+	margin-left: 0px;
+}
+.slick-next{
+	right: 0;
+}
+.slick-prev {
+	left: 0;
+}
+.popup {
+	height: 35%;
+    width: 75%;
+}
+}
